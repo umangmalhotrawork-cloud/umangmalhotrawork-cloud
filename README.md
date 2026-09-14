@@ -16,6 +16,14 @@ Computer Science student focused on AI/ML, C++ and intelligent software systems.
   </a>
 </p>
 
+<p align="left">
+  <img src="assets/hero.svg" alt="Umang Malhotra // Intelligent Systems" width="100%" />
+</p>
+
+<p align="left">
+  <img src="assets/activity.svg" alt="GitHub Activity Cadence" width="100%" />
+</p>
+
 ---
 
 ### About & Focus
@@ -26,6 +34,10 @@ I focus on engineering reliable intelligent systems that bridge foundational com
 - **Computer Vision:** Engineering real-time visual intelligence, streaming video analysis, and object detection systems.
 - **Generative AI & LLMs:** Designing agentic workflows, contextual developer tooling, and applied language model systems.
 - **Data Structures & Algorithms:** Rigorous algorithmic problem-solving and efficiency-first software engineering in C++.
+
+<p align="left">
+  <img src="assets/engineering_focus.svg" alt="Engineering Focus" width="100%" />
+</p>
 
 ---
 
@@ -67,6 +79,7 @@ I focus on engineering reliable intelligent systems that bridge foundational com
 
 #### 1. SENTINEL AI
 **AI-Powered Development & Intelligence Platform**
+`● Active Development`
 
 A local-first software development environment focused on intelligent developer workflows, agent orchestration, and contextual coding assistance.
 
@@ -83,6 +96,7 @@ A local-first software development environment focused on intelligent developer 
 
 #### 2. SPECTRA
 **AI Video Intelligence & Computer Vision Platform**
+`● Active Development`
 
 An AI video intelligence platform engineered for security and surveillance analysis, live camera monitoring, and operational telemetry.
 
@@ -100,6 +114,7 @@ An AI video intelligence platform engineered for security and surveillance analy
 
 #### 3. COGNITIVE PERFORMANCE EARLY WARNING SYSTEM
 **Predictive AI System for Cognitive Performance & Risk Analysis**
+`● Iterating / Refining`
 
 A predictive machine learning platform that evaluates behavioral and productivity signals to forecast cognitive performance trends and burnout risks.
 
