@@ -2,7 +2,7 @@
 
 **AI/ML Engineer in Progress • C++ & DSA • Intelligent Systems**
 
-Computer Science student focused on Artificial Intelligence and Machine Learning, building production-oriented AI systems and full-stack products. My work centers on combining strong foundations in C++ and algorithmic problem-solving with practical applications across computer vision, generative AI, and intelligent developer tooling.
+Computer Science student focused on AI/ML, C++ and intelligent software systems. I build computer-vision platforms, agentic developer tools, and predictive ML applications with a focus on practical, production-oriented engineering.
 
 <p align="left">
   <a href="https://github.com/umangmalhotrawork-cloud">
@@ -22,12 +22,10 @@ Computer Science student focused on Artificial Intelligence and Machine Learning
 
 I focus on engineering reliable intelligent systems that bridge foundational computer science with applied artificial intelligence:
 
-- **AI & Machine Learning:** Developing predictive models and machine learning pipelines.
-- **Computer Vision:** Real-time visual intelligence and video stream processing.
-- **Generative AI & LLMs:** Agentic workflows and context-aware AI applications.
-- **Data Structures & Algorithms:** Algorithmic problem-solving and efficiency-first development in C++.
-- **Full-Stack AI Applications:** End-to-end architectures connecting machine learning backends with intuitive interfaces.
-- **Intelligent Developer Tooling:** Engineering tools that augment software engineering workflows with AI.
+- **AI & Machine Learning:** Developing predictive models, ensemble architectures, and data-driven inference pipelines.
+- **Computer Vision:** Engineering real-time visual intelligence, streaming video analysis, and object detection systems.
+- **Generative AI & LLMs:** Designing agentic workflows, contextual developer tooling, and applied language model systems.
+- **Data Structures & Algorithms:** Rigorous algorithmic problem-solving and efficiency-first software engineering in C++.
 
 ---
 
@@ -49,16 +47,12 @@ I focus on engineering reliable intelligent systems that bridge foundational com
   <img src="https://img.shields.io/badge/Computer%20Vision-24292e?style=flat-square" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Generative%20AI-24292e?style=flat-square" alt="Generative AI" />
   <img src="https://img.shields.io/badge/LLMs-24292e?style=flat-square" alt="LLMs" />
-</p>
-
-#### Libraries
-<p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-#### Frameworks & Runtime
+#### Frameworks & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -74,10 +68,11 @@ I focus on engineering reliable intelligent systems that bridge foundational com
 #### 1. SENTINEL AI
 **AI-Powered Development & Intelligence Platform**
 
-An AI-powered software development environment focused on intelligent developer workflows, agent orchestration, contextual software engineering, and AI-assisted coding. Built around a multi-agent harness and Continuum workflows, it coordinates persistent, context-aware agent interactions across code generation, analysis, and project-level tasks.
+A local-first software development environment focused on intelligent developer workflows, agent orchestration, and contextual coding assistance.
 
-- **Technical Focus:** Multi-agent architecture • Agent orchestration harness • Continuum persistent context • Code intelligence & navigation • Full-stack architecture
-- **Key Capabilities:** Agent-driven coding workflows • Ghost line detector • Code clone detection • Codebase and project navigation • Task-specific agent coordination • Git/GitHub integration
+- **Multi-Agent Orchestration:** Integrated agent harness and Continuum workflows for persistent, context-aware coordination across software development tasks.
+- **Code Intelligence:** Ghost Line Detector for predictive completions, codebase clone detection, and contextual project navigation.
+- **Developer Tooling:** Agent-driven coding workflows with native Git and GitHub integration across a full-stack architecture.
 - **Core Technologies:**<br/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -89,10 +84,11 @@ An AI-powered software development environment focused on intelligent developer 
 #### 2. SPECTRA
 **AI Video Intelligence & Computer Vision Platform**
 
-An AI-powered video intelligence platform engineered for media analysis, security and surveillance workflows, live camera monitoring, and operational telemetry. Built on an asynchronous processing pipeline connecting OpenCV, YOLO, and Gemini 2.5 Flash, it ingests video uploads and live RTSP/HLS streams to deliver real-time detection, multimodal scene understanding, and structured reporting.
+An AI video intelligence platform engineered for security and surveillance analysis, live camera monitoring, and operational telemetry.
 
-- **Technical Focus:** Real-time video processing & inference • YOLO-based object detection & tracking • Multimodal video understanding (Gemini 2.5 Flash) • RTSP / HLS stream ingestion • Telemetry & performance tracking (FPS, latency, hardware metrics)
-- **Key Capabilities:** Real-time object detection & tracking • Specialized weapon detection • Optical Character Recognition (OCR via EasyOCR) • AI-powered scene understanding • Live RTSP camera monitoring • Detection event timelines & telemetry dashboards • Interactive AI Assistant • Automated PDF report generation
+- **Real-Time Detection & Tracking:** YOLO-based object detection and tracking with specialized weapon detection and Optical Character Recognition (OCR).
+- **Multimodal Video Intelligence:** Gemini 2.5 Flash integration for AI scene understanding, interactive assistant queries, and structured video analysis.
+- **Live Stream Telemetry:** Live RTSP camera monitoring with real-time analytics tracking FPS, latency, and hardware metrics, plus automated PDF reporting.
 - **Core Technologies:**<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -105,10 +101,11 @@ An AI-powered video intelligence platform engineered for media analysis, securit
 #### 3. COGNITIVE PERFORMANCE EARLY WARNING SYSTEM
 **Predictive AI System for Cognitive Performance & Risk Analysis**
 
-A predictive machine learning platform that evaluates behavioral and productivity signals to forecast cognitive performance trends and burnout risks. Operating across multi-model regression ensembles and explainable AI interpretability, it translates daily activity metrics into predictive risk scores, scenario forecasts, and personalized habit adjustments without making clinical or medical claims.
+A predictive machine learning platform that evaluates behavioral and productivity signals to forecast cognitive performance trends and burnout risks.
 
-- **Technical Focus:** Predictive regression modeling • Multi-model ensemble architecture (Random Forest, Extra Trees, XGBoost) • Explainable AI (SHAP TreeExplainer) • 7-day cognitive forecasting • Feature attribution & what-if simulation
-- **Key Capabilities:** Multi-signal behavioral analysis (study hours, sleep, screen time, exercise, journal reflections) • Multi-target predictions (focus score, learning efficiency, burnout risk, productivity trends, overall cognitive health) • ML-powered what-if simulator • AI Coach with personalized productivity recommendations • Confidence score & prediction range analysis • Interactive analytics dashboard with history tracking • PDF & CSV report generation
+- **Ensemble ML Architecture:** Multi-model regression (Random Forest, Extra Trees, XGBoost) forecasting focus scores, learning efficiency, and burnout risk.
+- **Explainable AI (SHAP):** SHAP TreeExplainer integration for transparent feature attribution, confidence scoring, and prediction range analysis.
+- **Simulation & Reporting:** 7-day cognitive trend forecasting, what-if scenario simulator, personalized habit recommendations, and automated PDF/CSV reports.
 - **Core Technologies:**<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -121,11 +118,9 @@ A predictive machine learning platform that evaluates behavioral and productivit
 
 ### Currently Building & Learning
 
-- **C++ & Algorithms:** Deepening Data Structures and Algorithms practice with an emphasis on optimization, computational complexity, and system design fundamentals.
-- **Production-Oriented AI Systems:** Architecting scalable, maintainable AI application backends and robust deployment pipelines.
-- **Computer Vision:** Implementing and tuning real-time computer vision models and stream processing pipelines.
-- **Generative AI & LLM Applications:** Designing contextual, task-oriented LLM applications and agentic tool integrations.
-- **Intelligent Developer Tooling:** Creating developer experiences and workflows accelerated by modern AI capabilities.
+- **C++ & DSA:** Mastering core Data Structures and Algorithms with a focus on optimization, computational complexity, and systems programming.
+- **Production-Oriented AI Systems:** Architecting scalable, maintainable AI application backends, asynchronous APIs, and robust deployment pipelines.
+- **Computer Vision & Generative AI:** Deepening real-time vision pipelines, multimodal analysis, and context-aware LLM agent integrations.
 
 ---
 
