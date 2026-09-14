@@ -71,53 +71,51 @@ I focus on engineering reliable intelligent systems that bridge foundational com
 
 ### Selected Projects
 
-#### 1. SPECTRA
+#### 1. SENTINEL AI
+**AI-Powered Development & Intelligence Platform**
+
+An AI-powered software development environment focused on intelligent developer workflows, agent orchestration, contextual software engineering, and AI-assisted coding. Built around a multi-agent harness and Continuum workflows, it coordinates persistent, context-aware agent interactions across code generation, analysis, and project-level tasks.
+
+- **Technical Focus:** Multi-agent architecture • Agent orchestration harness • Continuum persistent context • Code intelligence & navigation • Full-stack architecture
+- **Key Capabilities:** Agent-driven coding workflows • Ghost line detector • Code clone detection • Codebase and project navigation • Task-specific agent coordination • Git/GitHub integration
+- **Core Technologies:**<br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-24292e?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-24292e?style=flat-square" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+
+#### 2. SPECTRA
 **AI Video Intelligence & Computer Vision Platform**
 
-A video intelligence platform focused on real-time video processing, YOLO-based object detection, video analytics, and RTSP/HLS workflows.
+An AI-powered video intelligence platform engineered for media analysis, security and surveillance workflows, live camera monitoring, and operational telemetry. Built on an asynchronous processing pipeline connecting OpenCV, YOLO, and Gemini 2.5 Flash, it ingests video uploads and live RTSP/HLS streams to deliver real-time detection, multimodal scene understanding, and structured reporting.
 
-- **Technical Focus:** Real-time video processing • YOLO-based object detection • RTSP / HLS stream ingestion • Video analytics
-- **Technologies:**
+- **Technical Focus:** Real-time video processing & inference • YOLO-based object detection & tracking • Multimodal video understanding (Gemini 2.5 Flash) • RTSP / HLS stream ingestion • Telemetry & performance tracking (FPS, latency, hardware metrics)
+- **Key Capabilities:** Real-time object detection & tracking • Specialized weapon detection • Optical Character Recognition (OCR via EasyOCR) • AI-powered scene understanding • Live RTSP camera monitoring • Detection event timelines & telemetry dashboards • Interactive AI Assistant • Automated PDF report generation
+- **Core Technologies:**<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-24292e?style=flat-square" alt="Computer Vision" />
-
-#### 2. SENTINEL AI
-**AI-Powered Development & Intelligence Platform**
-
-An intelligent developer platform focused on AI-assisted developer workflows, intelligent tooling, and contextual software engineering assistance.
-
-- **Technical Focus:** AI-assisted developer workflows • Developer tooling • Contextual software engineering
-- **Core Technologies:**
-  <img src="https://img.shields.io/badge/AI%20Systems-24292e?style=flat-square" alt="AI Systems" />
-  <img src="https://img.shields.io/badge/Developer%20Tooling-24292e?style=flat-square" alt="Developer Tooling" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-24292e?style=flat-square" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Gemini%202.5%20Flash-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini 2.5 Flash" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 #### 3. COGNITIVE PERFORMANCE EARLY WARNING SYSTEM
 **Predictive AI System for Cognitive Performance & Risk Analysis**
 
-A predictive machine learning system designed around prediction and analysis of cognitive performance, focus decline, learning efficiency, productivity trends, and burnout risk.
+A predictive machine learning platform that evaluates behavioral and productivity signals to forecast cognitive performance trends and burnout risks. Operating across multi-model regression ensembles and explainable AI interpretability, it translates daily activity metrics into predictive risk scores, scenario forecasts, and personalized habit adjustments without making clinical or medical claims.
 
-- **Technical Focus:** Predictive machine learning • Forecasting • Explainable AI (SHAP)
-- **Core Technologies:**
+- **Technical Focus:** Predictive regression modeling • Multi-model ensemble architecture (Random Forest, Extra Trees, XGBoost) • Explainable AI (SHAP TreeExplainer) • 7-day cognitive forecasting • Feature attribution & what-if simulation
+- **Key Capabilities:** Multi-signal behavioral analysis (study hours, sleep, screen time, exercise, journal reflections) • Multi-target predictions (focus score, learning efficiency, burnout risk, productivity trends, overall cognitive health) • ML-powered what-if simulator • AI Coach with personalized productivity recommendations • Confidence score & prediction range analysis • Interactive analytics dashboard with history tracking • PDF & CSV report generation
+- **Core Technologies:**<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-
-#### 4. NEXUS
-**Agentic Development Environment & AI IDE**
-
-A development environment focused on agentic AI workflows, contextual developer assistance, and code intelligence.
-
-- **Technical Focus:** Agentic AI • Developer tooling • Contextual workflows • Code intelligence
-- **Core Technologies:**
-  <img src="https://img.shields.io/badge/Agentic%20AI-24292e?style=flat-square" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Code%20Intelligence-24292e?style=flat-square" alt="Code Intelligence" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5B28?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SHAP-24292e?style=flat-square" alt="SHAP" />
 
 ---
 
