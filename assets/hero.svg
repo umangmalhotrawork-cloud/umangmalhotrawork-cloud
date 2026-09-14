@@ -102,9 +102,9 @@
 
     <!-- Right Side Engineering Focus Card -->
     <rect x="710" y="46" width="126" height="74" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1" />
-    <text x="720" y="62" fill="#c9d1d9" font-size="9.5" class="mono">• AI / ML</text>
-    <text x="720" y="77" fill="#c9d1d9" font-size="9.5" class="mono">• C++20</text>
-    <text x="720" y="92" fill="#c9d1d9" font-size="9.5" class="mono">• Computer Vision</text>
-    <text x="720" y="107" fill="#79c0ff" font-size="9.5" class="mono">• Agentic Systems</text>
+    <text x="722" y="62" fill="#c9d1d9" font-size="9.5" class="mono">AI / ML</text>
+    <text x="722" y="77" fill="#c9d1d9" font-size="9.5" class="mono">C++20</text>
+    <text x="722" y="92" fill="#c9d1d9" font-size="9.5" class="mono">Computer Vision</text>
+    <text x="722" y="107" fill="#c9d1d9" font-size="9.5" class="mono">Agentic Systems</text>
   </g>
 </svg>
