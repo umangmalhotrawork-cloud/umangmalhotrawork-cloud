@@ -20,10 +20,6 @@ Computer Science student focused on AI/ML, C++ and intelligent software systems.
   <img src="assets/hero.svg" alt="Umang Malhotra // Intelligent Systems" width="100%" />
 </p>
 
-<p align="left">
-  <img src="assets/activity.svg" alt="GitHub Activity Cadence" width="100%" />
-</p>
-
 ---
 
 ### About & Focus
